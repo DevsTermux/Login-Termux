@@ -44,7 +44,7 @@ Se estiver com alguma dúvida no script ou encontrou algum erro na execução de
 
 Nome de usuário: @RedLg, @kuartz
 
-*Não nos responsabilizamos por perdas de dados ou qualquer outra coisa que venha a acontecer, esses contatos são somente para esclarecer dúvidas na execução do script, logo eles serão retidados.
+*Não nos responsabilizamos por perdas de dados ou qualquer outra coisa que venha a acontecer, esses contatos são somente para esclarecer dúvidas na execução do script, logo eles serão retidados.*
 
 ## English Version
 
@@ -96,6 +96,6 @@ via the Telegram.
 
 Username: @RedLg, @kuartz
 
-We are not responsible for data loss, these contacts are only to clarify doubts about the 
-execution of the script.
+*We are not responsible for data loss, these contacts are only to clarify doubts about the 
+execution of the script.*
 
