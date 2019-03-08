@@ -3,12 +3,13 @@
 Esse script vai ajudar a aumentar a sua privacidade dentro do app Termux.
 
 Os dados exigido para realização do registro são:
+```
 1) Usuario;
 2) Senha;
 3) Número do celular;
 4) Pergunta de recuperação; e
 5) Resposta para a pergunta.
-
+```
 A partir do 3° item, são infomações para a recuperção de todos os dados que foram fornecidos.
 
 No registro não será aceito espaços em nenhum dos dados.
@@ -22,7 +23,7 @@ Na recuperação por SMS, você encontrará seus dados no rascunho de mensagens 
 Todos os dados serão salvos no seu próprio celular.
 
 ## Instalação
-
+```
 1) Baixe o Termux:API na Google Play (Você vai precisar dar permissão para que ele possa enviar sms).
 
 Baixe os arquivos usando o comando:
@@ -34,7 +35,7 @@ Baixe os arquivos usando o comando:
 4) chmod +x *
 
 5) bash install.sh
-
+```
 Após isso, o seu Termux pedirá nome de usuário e senha sempre que for executado.
 
 ## Contato
