@@ -73,7 +73,7 @@ When retrieving by SMS, you will find your data in the message drawer of your mo
 All data will be saved to your phone.
 
 
-Installation:
+### Installation:
 ```
 1) Download Termux: API on Google Play (You'll need to give permission for it to send sms).
 
@@ -89,7 +89,7 @@ Installation:
 After that, Termux will ask for the user name and password every time it is run.
 
 
-Contact
+### Contact
 
 If you have any questions in the script or have found any errors in running it, contact us 
 via the Telegram.
