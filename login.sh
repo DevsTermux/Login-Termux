@@ -121,3 +121,21 @@ pergunta(){
 
 menu
 trap 2
+
+#--------------------------------------------------------------------------------
+#if [[ trap '' SIGCONT || trap '' trap '' SIGTSTP SIGXCPU -eq $0 ]]; then
+	#count=0
+	#for (( i = 0; i < 5; i++ )); do
+	#	trap ''  2
+	#done
+#fi
+
+#while [[ `trap SIGTSTP` -eq $0 ]]; do
+#	echo "lendo algo"
+#	aux=0
+#	if[ $aux -eq 5 ]; then
+#		trap '' 2
+#	else 
+#		aux=$aux + 1
+#	fi
+#done
